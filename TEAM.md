@@ -1,14 +1,23 @@
-## Founder
+Steven Zambron
+Founder & CEO
 
-Name: [name]
-Role: [role]
+DallasTatlow
+COO
 
-## Team Member 1
+Mike Patraw
+CMO
 
-Name: [name]
-Role: [role]
+Tyler Engelhardt
+Lead DevOps Engineer
 
-## Team Member 2
+Manmeet Sangherra
+Human Resources Manager
 
-Name: [name]
-Role: [role]
+Tasos Oureilidis
+Senior Marketing Associate
+
+Stephen Brown
+Marketing Associate
+
+Alex Guerra
+Artist Relations and Integrations
