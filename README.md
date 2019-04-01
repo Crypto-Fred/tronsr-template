@@ -92,4 +92,4 @@ Checkout the [Pages](/pages) directory for the translation readme
 * __I've modified a file but the changes aren't visible on tronscan.org?__  
   Contents from the repository are served using the Github CDN which uses aggressive caching. It may take a few minutes before the changes are reflected on tronscan.org.
 * __Why are HTML elements visible on Github but not on tronscan.org?__  
-  Tronscan.org will sanitize all HTML tags for security reasons, only standard markdown tags are allowed
+  Tronscan.org will sanitize all HTML tags for security reasons, only standard markdown tags are allowed!
